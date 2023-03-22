@@ -1,7 +1,7 @@
 # NEW UPDATE 
-#Run this command 
+# Run this command 
 * git clone https://github.com/Cyber-Tech9/RNDM-UPDATE.git
-* cdRNDM-UPDATE
+* RNDM-UPDATE
 * python RANDOM.py
 
 
